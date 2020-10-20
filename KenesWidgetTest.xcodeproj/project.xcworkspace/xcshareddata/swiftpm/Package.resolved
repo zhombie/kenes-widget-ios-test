@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "KenesWidget",
+        "repositoryURL": "https://github.com/zhombie/kenes-widget-ios",
+        "state": {
+          "branch": null,
+          "revision": "0d03f4e632a27670da3f3b7d4389f02bfaf658fc",
+          "version": "1.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
